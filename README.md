@@ -7,5 +7,14 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
+## Programming Languages
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+<img src="https://skillicons.dev/icons?i=html,css,js,php," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=wordpress" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,figma" /> <br /><br />
